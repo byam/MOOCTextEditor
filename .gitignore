@@ -1,0 +1,11 @@
+
+.classpath
+.gitignore
+.idea/
+.metadata/
+.project
+.settings/
+MOOCTextEditor.iml
+bin/
+lib/
+license.txt
